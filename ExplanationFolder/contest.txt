@@ -1,0 +1,225 @@
+Power BI Dataviz World Champs | Round 1
+ 
+
+Opens: June 16th
+
+Closes: June 26th
+
+Round 2 opens: July 7
+
+ 
+
+The Dataviz World Champs start now. But this is more than just a challenge. This is your journey to Barcelona. :spain:
+
+ 
+
+Finalists will earn a conference ticket and the opportunity to showcase their work live, on stage, in front of the global data community. The experience is designed around that moment. The lights, the audience, the energy of seeing your work come to life in person.
+
+ 
+
+We know not everyone can make the trip, and that’s okay. But as you build, present, and refine your work, keep that stage in mind. That’s what this competition is leading toward.
+
+ 
+
+For Round 1, we’re diving into a football-inspired dataset (yes, in honor of the World Cup) and your challenge is simple to say… and hard to execute:
+
+ 
+
+What is driving changes in revenue performance over time, and where should the business focus next to sustain growth?
+
+ 
+
+You’re building for executives, you’ve got 5 pages, and every pixel needs to earn its place.
+
+
+:soccer_ball: The scenario
+ 
+
+For Round 1, you’ll be working with a fictional dataset from:
+
+ 
+
+PitchSide Pro - a global e-commerce retailer specializing in football (soccer) merchandise.
+
+ 
+
+Think:
+
+Club kits and national team gear
+Boots and training equipment
+Scarves, collectibles, and all things fan culture
+Over the past five years, the business has grown through a mix of:
+
+seasonal demand
+major football moments (:eyes: tournaments, finals, big wins)
+product launches
+digital channel expansion
+
+There are peaks, patterns, and stories. Your job is to make sense of it all clearly. 
+
+:right_arrow: Download the starter file.
+
+:bar_chart:Access the source csv files if you need them!
+
+Having issues? Check out the GitHub repo!
+
+
+:direct_hit: Your task
+
+Build a Power BI report that answers:
+
+
+What is driving changes in revenue performance over time, and where should the business focus next to sustain growth?
+
+
+Simple question. Not a simple answer.
+
+
+:busts_in_silhouette: Your audience
+
+You are building for the executive leadership team. This is not a casual audience.
+
+
+They:
+
+check this report every day (yes, daily)
+start with top-line performance
+expect precision, not guesswork
+want to drill into the numbers when something looks off
+
+Your report should feel:
+
+instantly clear at first glance
+deep and trustworthy on interaction
+
+:white_heavy_check_mark: Submission requirements
+
+All submissions must:
+
+Be built in Power BI Desktop
+Be a single .pbix file
+Contain no more than 5 pages
+Use the provided dataset
+Include at least three core Power BI visuals
+Meet accessibility expectations
+clear labels and alt text
+strong contrast
+intentional layout and reading order
+How to submit:
+In the Contests gallery, select Submit to contest - or - click this link
+Add your submission. Be sure to add:
+Image
+Description
+.pbix file or Publish to Web URL
+Tag your entry with "World Champs BCN"
+Add your submission questions to this thread and tag me!
+ 
+:artist_palette: What you can do
+
+This is where you can have some fun.
+
+
+You’re encouraged to:
+
+Use custom themes
+Add images (flags, club badges, subtle backgrounds, etc.)
+Bring in a bit of football energy and personality
+If it helps tell the story better, go for it. Just remember: clarity comes first.
+
+
+:prohibited: What you cannot do
+
+To keep things fair and focused on insight:
+
+Do not alter the dataset
+no editing values
+no adding rows
+no modifying the underlying data
+Do not bring in external data
+Do not simulate or fabricate additional data
+You can:
+
+model the data
+transform it
+analyze it
+
+But the source data itself must remain unchanged.
+
+
+🧠 What we’re looking for
+
+This is not about who can build the busiest report.
+
+
+We’re looking for:
+
+Clear explanation of what’s happening over time
+Identification of real drivers of performance
+Insight across:
+products
+regions
+channels
+customer segments
+Strong, defensible recommendations
+There isn’t one right answer. But there are clearer, stronger, more compelling ones.
+
+
+
+🧩 The data
+
+You’ll be working with:
+
+FactSales - revenue, cost, profit
+FactTraffic - sessions, conversions, behavior
+Supported by:
+
+Date
+Product
+Customer
+Region
+Channel
+Everything you need is there.
+
+
+:key: Final reminder
+
+This is a clarity challenge.
+
+
+We are not rewarding:
+
+the most complex model
+the flashiest visuals
+the densest pages
+We are rewarding:
+
+clear thinking
+strong insight
+confident communication
+
+:globe_showing_europe_africa: Your path to the stage
+
+Every submission is a step forward. From your first page… to a live moment in Barcelona. We’re building toward a final where the very best work is shared on stage, in front of the community. If you’re thinking about what that experience might feel like as you design your report, you’re thinking about this exactly the right way.
+
+
+:woman_judge: Meet the Judges
+
+We’re kicking things off by announcing our first judge:
+
+
+Paulo Grijo – Dataviz World Champion 2025
+
+
+More judges will be announced soon :eyes:
+
+ 
+
+
+:blue_book: Official Rules
+
+Before you submit, make sure you review the full rules, timelines, and eligibility details.
+
+
+:rocket: Ready?
+
+Download the dataset, explore the story, and build something great. We can’t wait to see what you create.
